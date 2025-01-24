@@ -1,6 +1,6 @@
 # Stock-Dashboard
 
-StockDashboard is a web application that provides real-time stock market data, visualizations, and analysis tools to help users make informed investment decisions.
+Stock-Dashboard is a web application that provides real-time stock market data, visualizations, and analysis tools to help users make informed investment decisions.
 
 ## Features
 
