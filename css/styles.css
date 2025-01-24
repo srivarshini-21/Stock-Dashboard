@@ -1,0 +1,68 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+    background-color: #333;
+    color: white;
+    border: 1px solid #444;
+}
+
+button {
+    padding: 10px;
+    background-color: #00f2fe;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4facfe;
+}
+
+.chart-container,
+.historical-chart-container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+.prediction {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.prediction h2 {
+    color: #00f2fe;
+}
+
+#heatmap {
+    margin-top: 30px;
+}
+
+
+#predictionOutput{
+    color: white;
+}
+
+.prediction {
+    color:white;
+}
