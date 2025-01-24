@@ -1,4 +1,4 @@
-# StockDashboard
+# Stock-Dashboard
 
 StockDashboard is a web application that provides real-time stock market data, visualizations, and analysis tools to help users make informed investment decisions.
 
@@ -12,7 +12,7 @@ StockDashboard is a web application that provides real-time stock market data, v
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/StockDashboard.git
+    git clone https://github.com/srivarshini-21/Stock-Dashboard
     ```
 2. Navigate to the project directory:
     ```bash
@@ -33,4 +33,4 @@ StockDashboard is a web application that provides real-time stock market data, v
 
 ## Contact
 
-For any questions or suggestions, please contact srivarshini0402@gmail.com.
+For any questions or suggestions, please get in touch with srivarshini0402@gmail.com
